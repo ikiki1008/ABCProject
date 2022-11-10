@@ -1,0 +1,231 @@
+2022-09-09 19:09:37.474560chocoPie 1,croissant 1
+2022-09-09 19:11:57.303751chocoPie 1,croissant 1
+2022-09-09 19:12:16.814246chocoPie 1,croissant 1
+2022-09-09 19:14:16.022797pizzaBread 1
+2022-09-09 19:54:52.204151pizzaBread 1
+2022-09-09 19:59:56.142427pizzaBread 1
+2022-09-09 20:01:11.562855pizzaBread 1
+2022-09-09 20:05:55.948886pizzaBread 1
+2022-09-09 20:06:15.342514pizzaBread 1
+2022-09-09 20:08:10.806102pizzaBread 1
+2022-09-09 20:15:41.489029chocoPie 1,croissant 1
+2022-09-09 20:16:30.482090chocoPie 1,croissant 1
+2022-09-09 20:19:18.903291chocoPie 1,croissant 1
+2022-09-09 20:20:08.800501chocoPie 1,croissant 1
+2022-09-09 20:21:47.863086chocoPie 1,croissant 1
+2022-09-09 20:22:27.953703chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-09 20:25:04.887140chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-09 20:25:27.226543chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-09 20:26:30.520138chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-09 20:56:53.998910chocoPie 2
+2022-09-09 20:58:06.118423chocoPie 2
+2022-09-09 20:58:55.810178chocoPie 2
+2022-09-09 20:59:37.111530chocoPie 2
+2022-09-09 20:59:47.505866chocoPie 2
+2022-09-09 21:02:38.538780chocoPie 2
+2022-09-09 21:02:46.179648chocoPie 2
+2022-09-09 21:03:21.442422chocoPie 2
+2022-09-09 21:03:29.393316chocoPie 2
+2022-09-09 21:04:13.707920chocoPie 2
+2022-09-09 21:04:18.422084chocoPie 2
+2022-09-09 21:04:24.895129chocoPie 2
+2022-09-09 21:05:51.542730chocoPie 2
+2022-09-09 21:05:58.369537chocoPie 2
+2022-09-09 21:07:32.410870chocoPie 2
+2022-09-09 21:08:20.113580chocoPie 2
+2022-09-09 21:11:10.110234chocoPie 2
+2022-09-09 21:13:29.136559chocoPie 2
+2022-09-09 21:13:54.385812chocoPie 1,croissant 1
+2022-09-09 21:16:23.024032chocoPie 1,croissant 1
+2022-09-09 21:16:44.902044chocoPie 1,croissant 1
+2022-09-09 21:16:51.510819chocoPie 1,croissant 1
+2022-09-09 21:20:14.980434chocoPie 1,croissant 1
+2022-09-09 21:20:21.706205chocoPie 1,croissant 1
+2022-09-09 21:21:33.275091chocoPie 1,croissant 1
+2022-09-09 21:23:08.646723chocoPie 1,croissant 1
+2022-09-09 21:26:57.428098croissant 1
+2022-09-09 21:28:09.630115croissant 1
+2022-09-09 21:28:39.135650croissant 1
+2022-09-09 21:29:44.893718croissant 1
+2022-09-12 18:40:06.416505chocoPie 2
+2022-09-12 18:42:05.019790chocoPie 2
+2022-09-12 18:44:13.233152chocoPie 2
+2022-09-12 18:54:23.957015chocoPie 2
+2022-09-12 18:55:44.320921chocoPie 2
+2022-09-12 18:56:40.411961chocoPie 2
+2022-09-12 18:58:43.515261chocoPie 2
+2022-09-12 18:58:50.406585chocoPie 2
+2022-09-12 19:00:15.285077chocoPie 2
+2022-09-12 19:01:20.183712chocoPie 2
+2022-09-12 19:01:51.798044chocoPie 2
+2022-09-12 19:01:58.581588chocoPie 2
+2022-09-12 19:03:15.144317chocoPie 2
+2022-09-12 19:03:23.935031chocoPie 2
+2022-09-12 19:13:04.697560chocoPie 2
+2022-09-12 19:14:51.726501chocoPie 2
+2022-09-12 19:16:32.901136chocoPie 2
+2022-09-12 19:19:48.688409chocoPie 2
+2022-09-12 19:20:09.999165chocoPie 2
+2022-09-12 19:22:30.634233chocoPie 2
+2022-09-12 19:26:20.071756chocoPie 2
+2022-09-12 19:26:57.271077chocoPie 2
+2022-09-12 19:27:49.952713chocoPie 2
+2022-09-12 19:28:04.034519chocoPie 2
+2022-09-12 19:29:14.312052chocoPie 2
+2022-09-12 19:29:22.472413chocoPie 2
+2022-09-12 19:29:49.894254chocoPie 2
+2022-09-12 19:33:36.341968chocoPie 2
+2022-09-12 19:33:52.582983chocoPie 2
+2022-09-12 19:36:48.204434chocoPie 2
+2022-09-12 19:47:15.974362chocoPie 2
+2022-09-12 19:48:10.239918chocoPie 2
+2022-09-12 19:49:57.464045chocoPie 2
+2022-09-12 19:55:28.852127chocoPie 2
+2022-09-12 19:56:05.155452chocoPie 2
+2022-09-12 20:12:20.612812chocoPie 2
+2022-09-12 20:24:38.264394chocoPie 2
+2022-09-12 20:26:13.683907chocoPie 2
+2022-09-12 20:27:15.285275chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-12 20:44:00.582576chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-13 10:43:11.505473stickBread 2
+2022-09-13 11:16:08stickBread 2
+2022-09-13 11:32:26stickBread 2
+2022-09-13 15:44:20pizzaBread 1
+2022-09-13 15:44:41pizzaBread 1
+2022-09-19 15:46:43chocoPie 2
+2022-09-19 15:49:31chocoPie 2
+2022-09-19 16:04:06.078336chocoPie 1
+2022-09-19 16:13:06.070931chocoPie 1
+2022-09-19 16:14:56chocoPie 1
+2022-09-20 19:26:48stickBread 2
+2022-09-20 19:29:09stickBread 2
+2022-09-20 19:37:29stickBread 2
+2022-09-20 19:41:00pizzaBread 1
+2022-09-20 19:45:22stickBread 1
+2022-09-20 20:36:56stickBread 1
+2022-09-20 20:54:49stickBread 1
+2022-09-20 20:54:57stickBread 1
+2022-09-20 20:55:22stickBread 1
+2022-09-20 21:11:18stickBread 1
+2022-09-20 21:14:33stickBread 1
+2022-09-20 21:14:52stickBread 1
+2022-09-20 21:15:06stickBread 1
+2022-09-21 13:27:32chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-21 13:41:02chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-21 20:38:17chocoPie 1
+2022-09-21 21:02:41stickBread 1
+2022-09-22 17:22:32croissant 1
+2022-09-22 17:22:45croissant 3,stickBread 2
+2022-09-22 17:23:34chocoPie 1,croissant 2,stickBread 2
+2022-09-22 17:24:31croissant 3,stickBread 2
+2022-09-22 17:28:22stickBread 1
+2022-09-22 17:28:43croissant 3,stickBread 1
+2022-09-22 17:31:53stickBread 1
+2022-09-22 17:32:14croissant 3,stickBread 1
+2022-09-22 17:32:29chocoPie 1,croissant 3,stickBread 1
+2022-09-22 17:35:19croissant 3,stickBread 1
+2022-09-22 17:36:35croissant 1
+2022-09-22 17:36:56stickBread 2
+2022-09-22 17:37:09croissant 3,stickBread 2
+2022-09-22 17:39:10croissant 3,stickBread 2
+2022-09-22 17:39:52croissant 3,stickBread 2
+2022-09-22 17:41:33croissant 3,stickBread 2
+2022-09-22 17:46:48croissant 3
+2022-09-22 17:47:07croissant 3
+2022-09-26 14:27:44pizzaBread 1
+2022-09-26 14:28:27stickBread 1
+2022-09-26 14:28:53chocoPie 1,croissant 1
+2022-09-26 14:30:23chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-26 15:22:31chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-26 15:22:38chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-26 22:32:22chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-27 16:18:08chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-28 12:41:26chocoPie 1
+2022-09-28 12:42:45chocoPie 1
+2022-09-28 12:45:31stickBread 2
+2022-10-10 12:15:58pizzaBread 1
+2022-10-10 12:16:22chocoPie 1
+2022-10-10 12:16:57chocoPie 1
+2022-10-10 12:17:56stickBread 1
+2022-10-10 12:23:54stickBread 1
+2022-10-10 12:24:09stickBread 1
+2022-10-10 12:24:33stickBread 1
+2022-10-10 12:24:44stickBread 1
+2022-10-10 13:06:37stickBread 1
+2022-10-10 13:07:20stickBread 1
+2022-10-10 13:07:51stickBread 1
+2022-10-10 13:09:22chocoPie 1
+2022-10-10 13:10:10chocoPie 1
+2022-10-10 13:19:55chocoPie 1
+2022-10-10 13:21:07stickBread 1
+2022-10-10 13:36:51stickBread 1
+2022-10-10 13:37:43chocoPie 1
+2022-10-10 13:54:34chocoPie 1
+2022-10-10 13:55:07stickBread 1
+2022-10-10 13:55:39stickBread 1
+2022-10-10 13:57:26chocoPie 1
+2022-10-10 14:33:29chocoPie 1
+2022-10-10 14:33:49chocoPie 1
+2022-10-10 15:02:44chocoPie 1
+2022-10-10 15:03:35chocoPie 1
+2022-10-10 15:03:59chocoPie 1
+2022-10-10 15:05:41chocoPie 1
+2022-10-10 15:08:22chocoPie 1
+2022-10-10 15:08:33stickBread 1
+2022-10-10 15:09:40chocoPie 1
+2022-10-10 15:09:55chocoPie 1
+2022-10-10 15:44:41chocoPie 1
+2022-10-12 13:40:57chocoPie 1
+2022-10-12 13:41:17chocoPie 1
+2022-10-12 13:41:23chocoPie 1
+2022-10-12 14:59:42chocoPie 1,croissant 2,stickBread 1
+2022-10-12 15:00:17chocoPie 1,croissant 3
+2022-10-12 15:01:29chocoPie 1,croissant 1,stickBread 1
+2022-10-12 15:06:34chocoPie 1,croissant 3
+2022-10-12 15:06:56chocoPie 1,croissant 3,stickBread 1
+2022-10-12 15:07:43chocoPie 1,croissant 3
+2022-10-12 15:08:16chocoPie 1,croissant 2,stickBread 2
+2022-10-12 15:08:57chocoPie 1
+2022-10-12 15:09:13chocoPie 1
+2022-10-12 15:09:56chocoPie 1,croissant 3,stickBread 1
+2022-10-12 15:11:10chocoPie 1,croissant 3,stickBread 1
+2022-10-12 15:11:34chocoPie 1,croissant 1,stickBread 1
+2022-10-12 15:12:12chocoPie 1,croissant 2,stickBread 2
+2022-10-12 15:13:05chocoPie 1,croissant 2,stickBread 1
+2022-10-12 15:24:51croissant 3,pizzaBread 1
+2022-10-12 15:25:22chocoPie 1,croissant 3
+2022-10-12 15:26:44chocoPie 1,croissant 3,stickBread 1
+2022-10-12 15:28:05chocoPie 1,croissant 3,stickBread 1
+2022-10-12 15:28:39chocoPie 1,stickBread 1
+2022-10-12 15:29:00chocoPie 1,croissant 2
+2022-10-13 13:05:43chocoPie 1,croissant 4,stickBread 1
+2022-10-13 13:06:29chocoPie 1,croissant 2,stickBread 1
+2022-10-13 13:08:01chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:08:28chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:08:55chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:09:18chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-10-13 13:09:59chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:10:37chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:11:04chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-10-13 13:11:28chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:11:59chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-10-13 13:12:21chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-10-13 13:12:48chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-10-13 13:13:27chocoPie 1,croissant 2,stickBread 2
+2022-10-13 13:14:29croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 13:38:17croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 13:38:41chocoPie 1,croissant 2,stickBread 1
+2022-10-13 13:39:55chocoPie 1,croissant 2,stickBread 1
+2022-10-13 15:39:02chocoPie 1,croissant 2,stickBread 1
+2022-10-13 15:39:24chocoPie 1,croissant 2,stickBread 1
+2022-10-13 15:39:42pizzaBread 1,stickBread 2
+2022-10-13 15:40:03croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 15:40:33croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 15:40:52croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 15:41:12croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 15:41:28chocoPie 1,croissant 2,stickBread 1
+2022-10-13 16:36:13chocoPie 1,croissant 2,stickBread 2
+2022-10-13 16:36:49croissant 1,pizzaBread 1,stickBread 2
+2022-10-13 16:43:40chocoPie 1,croissant 2,stickBread 2
+2022-10-13 16:47:08chocoPie 1,croissant 2,stickBread 2
+2022-10-13 16:47:40croissant 1,pizzaBread 1,stickBread 2

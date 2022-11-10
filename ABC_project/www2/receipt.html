@@ -1,0 +1,111 @@
+<!-- 해야할일 
+1.AI Cashier 화면에서 입력받은 빵 값을 영수증으로 호출
+2.값을 받을때 body 부분에 어떻게 추가가 되나? -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bakery receipt</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./createRe.js"></script>
+    <style>
+        body {
+            margin-left: 25%;
+            border:1px solid rgb(29, 29, 29);
+            width: 330px;
+            height: 450px;
+            padding: 40px;
+            text-align: center;
+        }
+        #table1 { 
+            display:table; 
+            width:100%; 
+            border:1px solid white; 
+            text-align: center;
+        } 
+        .row {
+            display:table-row;
+        } 
+        .cell { 
+            display:table-cell; 
+            padding:1px; 
+            border-bottom:1px solid white; 
+            border-right:1px solid white; 
+        } 
+        .col {
+            width:30%;
+        }
+    </style>
+</head>
+<script>
+    //받은 데이터 자르기
+    var splited = (localStorage.getItem('bb')).split("</strong>");
+    var a = 'global';
+    let j = 0;
+    let result = ''
+
+    for(var i of splited){
+        a = i.split(/strong?.+>/g);
+        
+        if(a.length > 1) {
+            //결과를 담음
+            document.getElementById('ordertable');
+            var ordertable = a[1];
+            splited[j] = ordertable.replace(/[+-]/g,' ');
+            result += splited[j]
+            result = result.trim();
+            result += ','
+            j++;
+
+        } 
+        //현재까지 ordertable 안에 값을 넣었음
+    } 
+    
+    console.log(splited);  
+    
+    console.log(result);     
+
+
+    $(document).ready(function(){
+        
+        words(result)
+        /*
+        let bread = splited[0]
+        let count = splited[2]
+        appendRow(bread, count, 'ordertable')
+        */
+    })
+
+</script>
+<body>
+    <br>
+    <h2>DIT 베이커리 영수증</h2>
+    부산진구 양정동 양지로 54<br>
+    <script>
+        let today = new Date();
+
+        let year = today.getFullYear();
+        let month = today.getMonth() + 1;
+        let date = today.getDate();
+
+        document.write(year + '/' + month + '/' + date) 
+    </script><br><br><br>
+    <p>===========================</p>
+    <table id = 'table1' style="text-align: center;">
+        <thead>
+            <tr>
+                <th id = 'th1' style="width: 25%;">품목</th>
+                <th id = 'th2' style="width: 25%;">단가</th>
+                <th id = 'th3' style="width: 25%;">갯수</th>
+                <th id = 'th4' style="width: 25%;">합계</th>
+            </tr>
+        </thead>
+        <tbody id="ordertable"></tbody>
+    </table>
+    <div text-align="center">
+        <h3 id = "total">총 합계 </h3> 
+    </div>
+</body>
+</html>

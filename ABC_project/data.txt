@@ -1,0 +1,32 @@
+
+2022-09-08 17:55:48.115996pizzaBread 1
+2022-09-08 18:19:38.616354pizzaBread 1
+2022-09-08 18:20:57.063384pizzaBread 1
+2022-09-08 18:54:29.908281chocoPie 1
+2022-09-08 19:00:26.063678chocoPie 1
+2022-09-08 19:02:13.848102chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-08 19:26:35.699930chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-08 19:27:57.379303chocoPie 1,croissant 2,pizzaBread 1,stickBread 1
+2022-09-09 18:11:33.148865chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-09 18:12:02.941619chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-09 18:14:39.907769chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-09 18:15:53.617810chocoPie 1,croissant 1,pizzaBread 1,stickBread 1
+2022-09-09 18:21:02.383167chocoPie 2
+2022-09-09 18:21:58.509517chocoPie 2
+2022-09-09 18:22:41.851748chocoPie 2
+2022-09-09 18:31:06.569875chocoPie 2
+2022-09-09 18:41:23.668932chocoPie 1,croissant 1
+2022-09-09 18:42:29.418470chocoPie 1,croissant 1
+2022-09-09 18:42:40.103136chocoPie 1,croissant 1
+2022-09-09 18:43:11.733769chocoPie 1,croissant 1
+2022-09-09 18:43:29.836339chocoPie 1,croissant 1
+2022-09-09 18:47:26.548268chocoPie 1,croissant 1
+2022-09-09 18:48:36.497351chocoPie 1,croissant 1
+2022-09-09 18:49:42.492978chocoPie 1,croissant 1
+2022-09-09 18:49:58.271286chocoPie 1,croissant 1
+2022-09-09 18:57:32.236542chocoPie 1,croissant 1
+2022-09-09 18:58:17.085299chocoPie 1,croissant 1
+2022-09-09 18:59:06.217138chocoPie 1,croissant 1
+2022-09-09 19:00:56.191623chocoPie 1,croissant 1
+2022-09-09 19:01:48.668098chocoPie 1,croissant 1
+2022-09-09 19:02:15.328242chocoPie 1,croissant 1

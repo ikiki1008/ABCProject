@@ -1,0 +1,97 @@
+<!-- 해야할 일 = chocoPie 등을 한글로 변경, 같은 날짜끼리 묶어서 시간대별로 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="eel.js"></script>
+    <script src="./create.js"></script>
+    <title>ABC bakery sold list</title>
+</head>
+<style>
+    #title{
+        text-align: center;
+        margin-top: 5%;
+    }
+
+    #button{
+        margin-left: 47.5%;
+    }
+</style>
+<script>
+    //----------------------------------------------------------------
+    //여기서 async eel 해서 파일을 가져온다
+    // eel.expose(getData);
+    // function getData(line){
+
+    //     box = line;
+
+    //     console.log(box);
+    //     document.write(box);
+    // }
+
+
+    // for (i = 0; i < localStorage.length; i++)   {
+    //     console.log(localStorage.key(i) + "=[" + localStorage.getItem(localStorage.key(i)) + "]");  
+    // }
+</script>
+<script>
+
+async function popup(type){
+
+    const resultElement = document.getElementById('d');
+    if(type === 'd'){
+        await eel.send();
+        eel.expose(getData); 
+        
+        function getData(line){
+            box = line;
+            box = box.replace(/(?:\r\n|\r|\n)/g, '<br />'); //줄바꿈
+
+            // document.getElementById('box').value;
+
+            //날짜별로 정리?
+
+            // var arrValues = [box];
+            // var set = new Set(arrValues);
+
+            // if(set.size < arrValues.length) {
+            //     document.write("중복");
+            // }
+
+
+            // if(box.value == 'chocoPie') {
+            //     'chocoPie' = '초코파이'
+            // }
+            // else if(box.value == 'croissant') {
+            //     'criossant' == '크로와상'
+            // }
+            // else if(box.value == 'stickBread') {
+            //     'stickBread' == '버터스틱'
+            // }
+            // else{
+            //     'pizzaBread' == '피자빵'
+            // }
+
+            console.log(box);
+            document.write(box);
+
+            //keydown 안먹는다 좀더 알아봐야함
+            $(document).keydown(function(event) {
+                if ( event.keyCode == 27 || event.which == 27 ) {
+                    window.open('data.html',"a","width=800, height=800, top=100, left=550");
+                    
+                }
+            });
+        }
+    }
+}
+</script>
+<body>
+    <h1 id="title">판매내역</h1>
+    <div>
+        <button id="button" type="reset" onclick='popup("d")' text-align="center">판매내역 보기</button>
+    </div>
+</body>
+</html>
